@@ -227,3 +227,6 @@ logs/
 # launch drafts (posts, media sources, checklist): kept local
 launch/
 MUJOCO_LOG.TXT
+
+# macOS Finder metadata
+.DS_Store
